@@ -157,7 +157,6 @@ class Tonicpow_Public
 				break;
 			case "wp_login":
 			case "comment_post":
-			case 'woocommerce_payment_complete':
 			case "media_upload_video":
 			case "media_upload_file":
 			case "media_upload_image":
